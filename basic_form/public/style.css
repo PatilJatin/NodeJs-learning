@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h3{
+  margin: 0 auto;
+  letter-spacing: 3px;
+  text-decoration: underline;
+}
+ form{
+  margin: 100px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+ }
